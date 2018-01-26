@@ -1,3 +1,11 @@
 .rouge{
-	color=red;
+	background :red;
+}
+
+.blanc{
+	background :white;
+}
+
+.bleu{
+	background :blue;
 }
