@@ -1,13 +1,8 @@
-.rouge{
-	background-color:red;
-}
-
-.blanc{
-	background-color :white;
-}
-
-.bleu{
-	background-color :blue;
+body{
+	background-image:url(../img/bg.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	color:white;
 }
 h1{
 	font-size:8vw;
@@ -26,7 +21,7 @@ table{
 }
 
 td,th{
-	border: 1px solid black;
+	border: 1px solid white;
 	
 }
 
@@ -42,15 +37,7 @@ p{
 
 
 @media screen and (max-width: 600px){
-	.rouge{
-		background-color:yellow;
-		
-	
-	}
-	th,td{
+	table,tbody,tr,th,td{
 		display:block;
-	}
-	th{
-		width:100%;
 	}
 }
