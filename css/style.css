@@ -49,6 +49,8 @@ p{
 	}
 	th,td{
 		display:block;
+	}
+	table{
 		width:100%;
 	}
 }
