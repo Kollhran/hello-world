@@ -47,10 +47,7 @@ p{
 		
 	
 	}
-	.colonne{
+	th{
 		display:block;
-	}
-	td+td+td+td+td+td{
-		vertical-align:bottom;
 	}
 }
