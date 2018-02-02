@@ -44,5 +44,10 @@ p{
 @media screen and (max-width: 600px){
 	.rouge{
 		background-color:yellow;
+		
+	
+	}
+	.colonne{
+		display:table-cell;
 	}
 }
