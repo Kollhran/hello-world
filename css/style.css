@@ -19,7 +19,7 @@ img{
 	display:block;
 }
 table{
-margin:auto;
+	margin:auto;
 	border-collapse:collapse;
 	border : 2px solid blue;
 	text-align:center;
@@ -49,5 +49,8 @@ p{
 	}
 	.colonne{
 		display:block;
+	}
+	td+td+td+td+td+td{
+		vertical-align:bottom;
 	}
 }
