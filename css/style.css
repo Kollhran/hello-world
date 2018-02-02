@@ -48,6 +48,6 @@ p{
 	
 	}
 	.colonne{
-		display:table-cell;
+		display:block;
 	}
 }
